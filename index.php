@@ -77,7 +77,7 @@ foreach ($produits as $produit) {
 
     <script>
     AOS.init({
-        duration: 1000
+        duration: 3000
     });
     </script>
 
